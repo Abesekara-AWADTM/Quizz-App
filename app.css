@@ -1,6 +1,6 @@
 
 :root {
-    background-color: #ecf5ff;
+    background-color: white;
     font-size: 62.5%;
   }
   
@@ -43,7 +43,7 @@
   
   /* UTILITIES */
   
-  .container {
+  /* .container {
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -52,10 +52,24 @@
     max-width: 80rem;
     margin: 0 auto;
     padding: 2rem;
-  }
+  }*/
   
   .container > * {
     width: 100%;
+  } 
+  .container{
+    width:1000px;
+    height:800px;
+    margin: 200px auto; 
+    padding:30px 50px 50px 50px;
+    border-radius: 50px;
+    border:3px solid ;
+    align-items: center;
+    box-shadow: 10px 15px 5px #14263a;
+    justify-content: center;
+    display: flex;
+    background-color: #ecf5ff;
+    
   }
   
   .flex-column {
@@ -82,12 +96,12 @@
   
   /* BUTTONS */
   .btn {
-    font-size: 1.8rem;
-    padding: 1rem 0;
+    font-size: 2.0rem;
+    padding: 1rem 2rem;
     width: 20rem;
     text-align: center;
     border: 0.1rem solid #56a5eb;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     text-decoration: none;
     color: #56a5eb;
     background-color: white;
@@ -95,7 +109,7 @@
   
   .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(7, 110, 161, 0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
   }
@@ -126,3 +140,11 @@
   input::placeholder {
     color: #aaa;
   }
+  nav{
+    background-color:#063970;    ;
+    /* max-width: 400px; */
+    /* margin: 0 auto; */
+    height: 100px;
+     padding-left: 20px; 
+    line-height: 50px;
+}
