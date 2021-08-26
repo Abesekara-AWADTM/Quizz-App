@@ -1,0 +1,43 @@
+[
+    {
+      "question": " Which feature of OOPS derives the class from another class? ",
+      "choice1": " Inheritance ",
+      "choice2": " Data hiding ",
+      "choice3": " Encapsulation ",
+      "choice4": " Polymorphism ",
+      "answer": 1
+    },
+    {
+      "question": " Which two features of object-oriented programming are the same? ",
+      "choice1": " Abstraction and Polymorphism features are the same ",
+      "choice2": " Inheritance and Encapsulation features are the same ",
+      "choice3": " Encapsulation and Polymorphism features are the same ",
+      "choice4": " Encapsulation and Polymorphism features are the same ",
+      "answer": 4
+    },
+    {
+      "question": " Which class cannot create its instance? ",
+      "choice1": " Parent class ",
+      "choice2": " Abstract class ",
+      "choice3": " Anonymous class ",
+      "choice4": " Nested class ",
+     "answer": 2
+    },
+  
+    {
+      "question": " which feature of OOP encorages the code reusability ",
+     "choice1": " Abstraction ",
+      "choice2": " Polymorphism ",
+      "choice3": " Inheritance ",
+      "choice4": " Encapsulation ",
+      "answer": 3
+    },
+    {
+      "question": " Which keyword is used to inherit a class in Java? ",
+      "choice1": "  inherit ",
+      "choice2": " implement ",
+      "choice3": " extend ",
+      "choice4": " extends",
+      "answer": 4
+    }
+  ]
